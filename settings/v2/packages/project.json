@@ -1,0 +1,27 @@
+{
+  "general": {
+    "designResolution": {
+      "fitHeight": true,
+      "width": 736,
+      "height": 414
+    }
+  },
+  "layer": [
+    {
+      "name": "Main Camera",
+      "value": 1
+    },
+    {
+      "name": "Player",
+      "value": 2
+    },
+    {
+      "name": "Enemy",
+      "value": 4
+    },
+    {
+      "name": "Terrain",
+      "value": 8
+    }
+  ]
+}

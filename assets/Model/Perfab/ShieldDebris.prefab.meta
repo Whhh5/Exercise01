@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.35",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "b1b65bc3-6f8c-4427-bc1a-af2b8bed6a28",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "ShieldDebris"
+  }
+}
